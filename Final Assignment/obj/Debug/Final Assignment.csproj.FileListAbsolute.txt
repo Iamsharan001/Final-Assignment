@@ -1,0 +1,4 @@
+C:\Users\Asus\Documents\GitHub\Final-Assignment\Final Assignment\obj\Debug\Final Assignment.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\Final-Assignment\Final Assignment\obj\Debug\Final_Assignment.Properties.Resources.resources
+C:\Users\Asus\Documents\GitHub\Final-Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\Final-Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CoreCompileInputs.cache
